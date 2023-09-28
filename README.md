@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 - Download the yelp_academic_dataset_business.json file from the [Google Drive](https://drive.google.com/drive/folders/1r2gwdgn8vSX2NPjt6VtrWI7p2L8SHUuu?usp=driv) and save it to the data folder within src (src/data folder).
 
-Note: I have just done exploraty data analysis and linear regression on the datatset to predict the ranking of the restaurant. Haven't deployed the code yet.
+Note: I have done exploraty data analysis and linear regression on the datatset to predict the ranking of the restaurant. Haven't deployed the code yet.
 
 ## Source Code Structure
 
