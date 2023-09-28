@@ -4,7 +4,7 @@ This repository contains my code for the AI/ML Coding Assessment of smartSense C
 
 ## Getting Started
 
-- Ensure that you have Python 3.10 ainstalled on your laptop. Run the following commands to check the versions of flutter and dart installed.
+- Ensure that you have Python 3.10 installed on your laptop. Run the following commands to check the versions of flutter and dart installed.
 ```
 python --version
 ```
